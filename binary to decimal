@@ -11,3 +11,5 @@ int main() {
 		}
 		base *= 2;
 	}
+	cout << ans;
+}
